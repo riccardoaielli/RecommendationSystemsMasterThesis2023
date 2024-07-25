@@ -1,11 +1,11 @@
-# ReproducibilityStudyofRecommendationSystemsMasterThesis2023
+# Reproducibility Study of Recommendation Systems - Master's Thesis 2023
 
 This is my Master's Thesis of *Computer Science Engineering* @Politecnico di Milano 2023.
 <br>
 Evaluation: 7/7
  
-Here you can find my Master's Thesis: [A reproducibility study on Recommendation Systems of papers published in IJCAI and WWW international conferences](A reproducibility study on Recommendation Systems of papers published in IJCAI and WWW international conferences.pdf).
-Here you can find the executive summary: [Executive Summary]{Executive Summary.pdf}
+Here you can find the thesis: [A reproducibility study on Recommendation Systems of papers published in IJCAI and WWW international conferences](A%20reproducibility%20study%20on%20Recommendation%20Systems%20of%20papers%20published%20in%20IJCAI%20and%20WWW%20international%20conferences.pdf).
+Here you can find the executive summary: [Executive Summary](Executive%20Summary.pdf)
 ***
 
 
