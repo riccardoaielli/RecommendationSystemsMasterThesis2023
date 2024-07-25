@@ -1,15 +1,14 @@
 # Reproducibility Study of Recommendation Systems - Master's Thesis 2023
 
 This is my Master's Thesis concluding a successful 5-year study path in *Computer Science Engineering* @Politecnico di Milano.
-For 8 months I worked in the research group RecSys Lab @ Polimi analyzing and reproducing the outcome of new Machine Learning recommender techniques.
-
 <br>
+For 8 months I worked in the research group RecSys Lab @ Polimi analyzing and reproducing the outcome of new Machine Learning recommender techniques published in leading international conferences.
+
 Evaluation: 7/7
  
-Here you can find the thesis: [A reproducibility study on Recommendation Systems](A%20reproducibility%20study%20on%20Recommendation%20Systems%20of%20papers%20published%20in%20IJCAI%20and%20WWW%20international%20conferences.pdf).
+Here you can find the thesis: [A reproducibility study on Recommendation Systems](A%20reproducibility%20study%20on%20Recommendation%20Systems%20of%20papers%20published%20in%20IJCAI%20and%20WWW%20international%20conferences.pdf)
 
 Here you can find the executive summary: [Executive Summary](Executive%20Summary.pdf)
-***
 
 
 ## Abstract:
