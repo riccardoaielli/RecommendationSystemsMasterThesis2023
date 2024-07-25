@@ -4,8 +4,9 @@ This is my Master's Thesis concluding a successful 5-year study path in *Compute
 <br>
 Evaluation: 7/7
  
-- Here you can find the thesis: [A reproducibility study on Recommendation Systems of papers published in IJCAI and WWW international conferences](A%20reproducibility%20study%20on%20Recommendation%20Systems%20of%20papers%20published%20in%20IJCAI%20and%20WWW%20international%20conferences.pdf).
-- Here you can find the executive summary: [Executive Summary](Executive%20Summary.pdf)
+Here you can find the thesis: [A reproducibility study on Recommendation Systems of papers published in IJCAI and WWW international conferences](A%20reproducibility%20study%20on%20Recommendation%20Systems%20of%20papers%20published%20in%20IJCAI%20and%20WWW%20international%20conferences.pdf).
+
+Here you can find the executive summary: [Executive Summary](Executive%20Summary.pdf)
 ***
 
 
