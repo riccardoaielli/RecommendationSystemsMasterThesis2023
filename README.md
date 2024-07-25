@@ -1,12 +1,15 @@
-### Reproducibility Study of Recommendation Systems
+# ReproducibilityStudyofRecommendationSystemsMasterThesis2023
 
-
+This is my Master's Thesis of *Computer Science Engineering* @Politecnico di Milano 2023.
+<br>
+Evaluation: 7/7
  
-Here you can find my Master's Thesis: [A reproducibility study on Recommendation Systems of papers published in IJCAI and WWW international conferences]().
-Here you can find the executive summary: [Executive Summary]{}
+Here you can find my Master's Thesis: [A reproducibility study on Recommendation Systems of papers published in IJCAI and WWW international conferences](A reproducibility study on Recommendation Systems of papers published in IJCAI and WWW international conferences.pdf).
+Here you can find the executive summary: [Executive Summary]{Executive Summary.pdf}
 ***
 
-Abstract of my research:
+
+## Abstract:
 The increasing popularity of Recommendation Systems, which aims at predicting the preferences or scores a user would assign to a set of items, is attributed to the growing interest in online platforms aligned with the vast amount of available data. These systems filter the information presenting the user with a precise subset of content ensuring the user’s attention is directed towards the most significant items for them.
 There is a variety of techniques that can be utilized for generating recommendations.
 Frequently, these recommendations are crafted through the application of collaborative filtering techniques, which rely on the preference of an extensive user community to predict the most pertinent items for each single customer.
